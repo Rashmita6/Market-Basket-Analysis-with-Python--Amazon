@@ -3,17 +3,20 @@
 # Project Overview
 The project analyzes Amazon customer purchasing behavior using survey and transaction-level data to understand product affinities, customer segments, and recommendation effectiveness. Python was used to clean data, analyze behavior patterns, segment customers, and generate actionable business insights to improve cross-selling, personalization, and customer retention.
 
-# Business Problem
-● What products or categories are frequently purchased together, indicating cross-selling
-opportunities?
-● How do customer purchasing patterns vary across demographics or regions?
-● Can we segment customers based on buying behavior to target personalized
-promotions?
-● Which products drive repeat purchases or high customer loyalty?
+# Business Objectives
+● Identify products and categories frequently purchased together.
+● Understand customer purchasing and browsing behavior.
+● Segment customers for targeted marketing strategies.
+● Evaluate the impact of reviews and recommendations on satisfaction.
+● Provide actionable insights for business decision-making.
 
-# Dataset summary
-The dataset contains 800 records and 24 columns representing Amazon-style customer survey data including:
-Customer demographics, Purchase categories, Browsing frequency, Cart abandonment reasons and Satisfaction ratings.
+# Dataset Used
+● Customer demographics (age, gender)
+● Purchase frequency & browsing habits
+● Product search preferences
+● Cart abandonment reasons
+● Review engagement & recommendation usefulness
+● Shopping satisfaction metrics
 
 # Tools Used
 ● Python
@@ -66,10 +69,10 @@ Techniques:
 ● At-risk customers show low engagement with recommendations and reviews.
 
 # Business Recommendations
-● Use purchase history to suggest complementary products.
-● Prioritize recommendations for frequent and loyal customers.
-● Highlight verified and helpful reviews prominently.
-● Encourage reviews through post-purchase nudges.
+● Enhance personalized recommendation engines.
+● Promote verified and helpful customer reviews.
+● Offer targeted incentives to at-risk customers.
+● Bundle frequently purchased products for cross-selling.
 ● Offer discounts or faster delivery options.
-● Simplify checkout to reduce cart abandonment.
-● Align inventory planning with high-affinity product pairs.
+
+
